@@ -1,36 +1,39 @@
 [
   {
     "country": "Turkey",
-    "capital":"Istanbul",
-    "national_language":,
-    "population_size",
+    "capital":"Ankara",
+    "official_language":"Turkish",
+    "population_size": "84.78M",
     "flag_colors":["red","white"],
     "popular_food_dish":{
-      "pizza": "img",
-      "fries": "img",
+      "kebap": "https://www.licious.in/blog/wp-content/uploads/2020/12/Turkish-Kebabs-min.jpg",
+      "baklava": "https://houseofnasheats.com/wp-content/uploads/2018/12/Turkish-Baklava-12.jpg",
+      "saksuka": "https://vidarbergum.com/wp-content/uploads/2021/06/saksuka-turkish-fried-eggplant-potato-vegetables-3.jpg",
     },
-    "popular_activities":,
-    "distance_from_ohio":,
-    "poster":["","",""],
+    "popular_activities":{
+      "historical_sites": "https://www.reviewofreligions.org/wp-content/uploads/2021/04/shutterstock_1515499457_1-1-1024x683.jpg",
+      "hot air balloons":"https://idsb.tmgrup.com.tr/ly/uploads/images/2022/07/12/217928.jpg",
+      "turkish bath":"https://i0.wp.com/istanbulvacationtips.com/wp-content/uploads/2019/10/what-to-expect-turkish-hamam-istanbul-vacation-tips.jpg?fit=1920%2C1080&ssl=1",
+    },
+    "poster":["https://media.timeout.com/images/105651491/image.jpg","https://www.travelandleisure.com/thmb/UXNrwYTm3z1CAEBl8z_sTxnyGEw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/istanbul-turkey-ISTANBULTG0721-a987bb021e5e4b42b069ba2518cde276.jpg"],
   }
   {
     "country": "Greece",
     "capital":,
-    "national_language":,
-    "population_size",
+    "official_language":,
+    "population_size":,
     "flag_colors":,
     "popular_food_dish":{
       "pizza": "img",
       "fries": "img",
     },
     "popular_activities":,
-    "distance_from_ohio":,
     "poster":,
   }
   {
     "country": "Morocco",
     "capital":,
-    "national_language":,
+    "official_language":,
     "population_size",
     "flag_colors":,
     "popular_food_dish":{
@@ -44,7 +47,7 @@
   {
     "country": "Tanzania",
     "capital":,
-    "national_language":,
+    "official_language":,
     "population_size",
     "flag_colors":,
     "popular_food_dish":{
@@ -58,7 +61,7 @@
   {
     "country": "Thailand",
     "capital":,
-    "national_language":,
+    "official_language":,
     "population_size",
     "flag_colors":,
     "popular_food_dish":{
@@ -72,7 +75,7 @@
   {
     "country": "Mexico",
     "capital":,
-    "national_language":,
+    "official_language":,
     "population_size",
     "flag_colors":,
     "popular_food_dish":{
@@ -86,7 +89,7 @@
   {
     "country": "Japan",
     "capital":,
-    "national_language":,
+    "official_language":,
     "population_size",
     "flag_colors":,
     "popular_food_dish":{
@@ -100,7 +103,7 @@
   {
     "country": "Ghana",
     "capital":,
-    "national_language":,
+    "official_language":,
     "population_size",
     "flag_colors":,
     "popular_food_dish":{
@@ -114,7 +117,7 @@
   {
     "country": "Senegal",
     "capital":,
-    "national_language":,
+    "official_language":,
     "population_size",
     "flag_colors":,
     "popular_food_dish":{
@@ -128,7 +131,7 @@
   {
     "country": "India",
     "capital":,
-    "national_language":,
+    "official_language":,
     "population_size",
     "flag_colors":,
     "popular_food_dish":{
@@ -142,7 +145,7 @@
   {
     "country":"China",
     "capital":,
-    "national_language":,
+    "official_language":,
     "population_size",
     "flag_colors":,
     "popular_food_dish":{
@@ -156,7 +159,7 @@
   {
     "country": "Peru",
     "capital":,
-    "national_language":,
+    "official_language":,
     "population_size",
     "flag_colors":,
     "popular_food_dish":{
@@ -170,7 +173,7 @@
   {
     "country": "Portugal",
     "capital":,
-    "national_language":,
+    "official_language":,
     "population_size",
     "flag_colors":,
     "popular_food_dish":{
@@ -184,7 +187,7 @@
   {
     "country": "Croatia",
     "capital":,
-    "national_language":,
+    "official_language":,
     "population_size",
     "flag_colors":,
     "popular_food_dish":{
@@ -198,7 +201,7 @@
   {
     "country": "Zimbabwe",
     "capital":,
-    "national_language":,
+    "official_language":,
     "population_size",
     "flag_colors":,
     "popular_food_dish":{
@@ -212,7 +215,7 @@
   {
     "country": "Costa Rica",
     "capital":,
-    "national_language":,
+    "official_language":,
     "population_size",
     "flag_colors":,
     "popular_food_dish":{
@@ -226,7 +229,7 @@
   {
     "country": "Kenya",
     "capital":,
-    "national_language":,
+    "official_language":,
     "population_size",
     "flag_colors":,
     "popular_food_dish":{
@@ -240,7 +243,7 @@
   {
     "country":"Barbados",
     "capital":,
-    "national_language":,
+    "official_language":,
     "population_size",
     "flag_colors":,
     "popular_food_dish":{
@@ -254,7 +257,7 @@
   {
     "country": "New Zealand",
     "capital":,
-    "national_language":,
+    "official_language":,
     "population_size",
     "flag_colors":,
     "popular_food_dish":{
@@ -268,7 +271,7 @@
   {
     "country": "Singapore",
     "capital":,
-    "national_language":,
+    "official_language":,
     "population_size",
     "flag_colors":,
     "popular_food_dish":{
@@ -282,7 +285,7 @@
   {
     "country": "Australia",
     "capital":,
-    "national_language":,
+    "official_language":,
     "population_size",
     "flag_colors":,
     "popular_food_dish":{
@@ -296,7 +299,7 @@
   {
     "country": "South Korea",
     "capital":,
-    "national_language":,
+    "official_language":,
     "population_size",
     "flag_colors":,
     "popular_food_dish":{
@@ -310,7 +313,7 @@
   {
     "country": "Jamaica",
     "capital":,
-    "national_language":,
+    "official_language":,
     "population_size",
     "flag_colors":,
     "popular_food_dish":{
@@ -324,7 +327,7 @@
   {
     "country":"Tunisia",
     "capital":,
-    "national_language":,
+    "official_language":,
     "population_size",
     "flag_colors":,
     "popular_food_dish":{
@@ -338,7 +341,7 @@
   {
     "country": "Indonesia",
     "capital":,
-    "national_language":,
+    "official_language":,
     "population_size",
     "flag_colors":,
     "popular_food_dish":{
