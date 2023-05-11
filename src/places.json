@@ -1,0 +1,352 @@
+[
+  {
+    "country": "Turkey",
+    "capital":"Istanbul",
+    "national_language":,
+    "population_size",
+    "flag_colors":["red","white"],
+    "popular_food_dish":{
+      "pizza": "img",
+      "fries": "img",
+    },
+    "popular_activities":,
+    "distance_from_ohio":,
+    "poster":["","",""],
+  }
+  {
+    "country": "Greece",
+    "capital":,
+    "national_language":,
+    "population_size",
+    "flag_colors":,
+    "popular_food_dish":{
+      "pizza": "img",
+      "fries": "img",
+    },
+    "popular_activities":,
+    "distance_from_ohio":,
+    "poster":,
+  }
+  {
+    "country": "Morocco",
+    "capital":,
+    "national_language":,
+    "population_size",
+    "flag_colors":,
+    "popular_food_dish":{
+      "pizza": "img",
+      "fries": "img",
+    },
+    "popular_activities":,
+    "distance_from_ohio":,
+    "poster":,
+  }
+  {
+    "country": "Tanzania",
+    "capital":,
+    "national_language":,
+    "population_size",
+    "flag_colors":,
+    "popular_food_dish":{
+      "pizza": "img",
+      "fries": "img",
+    },
+    "popular_activities":,
+    "distance_from_ohio":,
+    "poster":,
+  }
+  {
+    "country": "Thailand",
+    "capital":,
+    "national_language":,
+    "population_size",
+    "flag_colors":,
+    "popular_food_dish":{
+      "pizza": "img",
+      "fries": "img",
+    },
+    "popular_activities":,
+    "distance_from_ohio":,
+    "poster":,
+  }
+  {
+    "country": "Mexico",
+    "capital":,
+    "national_language":,
+    "population_size",
+    "flag_colors":,
+    "popular_food_dish":{
+      "pizza": "img",
+      "fries": "img",
+    },
+    "popular_activities":,
+    "distance_from_ohio":,
+    "poster":,
+  }
+  {
+    "country": "Japan",
+    "capital":,
+    "national_language":,
+    "population_size",
+    "flag_colors":,
+    "popular_food_dish":{
+      "pizza": "img",
+      "fries": "img",
+    },
+    "popular_activities":,
+    "distance_from_ohio":,
+    "poster":,
+  }
+  {
+    "country": "Ghana",
+    "capital":,
+    "national_language":,
+    "population_size",
+    "flag_colors":,
+    "popular_food_dish":{
+      "pizza": "img",
+      "fries": "img",
+    },
+    "popular_activities":,
+    "distance_from_ohio":,
+    "poster":,
+  }
+  {
+    "country": "Senegal",
+    "capital":,
+    "national_language":,
+    "population_size",
+    "flag_colors":,
+    "popular_food_dish":{
+      "pizza": "img",
+      "fries": "img",
+    },
+    "popular_activities":,
+    "distance_from_ohio":,
+    "poster":,
+  }
+  {
+    "country": "India",
+    "capital":,
+    "national_language":,
+    "population_size",
+    "flag_colors":,
+    "popular_food_dish":{
+      "pizza": "img",
+      "fries": "img",
+    },
+    "popular_activities":,
+    "distance_from_ohio":,
+    "poster":,
+  }
+  {
+    "country":"China",
+    "capital":,
+    "national_language":,
+    "population_size",
+    "flag_colors":,
+    "popular_food_dish":{
+      "pizza": "img",
+      "fries": "img",
+    },
+    "popular_activities":,
+    "distance_from_ohio":,
+    "poster":,
+  }
+  {
+    "country": "Peru",
+    "capital":,
+    "national_language":,
+    "population_size",
+    "flag_colors":,
+    "popular_food_dish":{
+      "pizza": "img",
+      "fries": "img",
+    },
+    "popular_activities":,
+    "distance_from_ohio":,
+    "poster":,
+  }
+  {
+    "country": "Portugal",
+    "capital":,
+    "national_language":,
+    "population_size",
+    "flag_colors":,
+    "popular_food_dish":{
+      "pizza": "img",
+      "fries": "img",
+    },
+    "popular_activities":,
+    "distance_from_ohio":,
+    "poster":,
+  }
+  {
+    "country": "Croatia",
+    "capital":,
+    "national_language":,
+    "population_size",
+    "flag_colors":,
+    "popular_food_dish":{
+      "pizza": "img",
+      "fries": "img",
+    },
+    "popular_activities":,
+    "distance_from_ohio":,
+    "poster":,
+  }
+  {
+    "country": "Zimbabwe",
+    "capital":,
+    "national_language":,
+    "population_size",
+    "flag_colors":,
+    "popular_food_dish":{
+      "pizza": "img",
+      "fries": "img",
+    },
+    "popular_activities":,
+    "distance_from_ohio":,
+    "poster":,
+  }
+  {
+    "country": "Costa Rica",
+    "capital":,
+    "national_language":,
+    "population_size",
+    "flag_colors":,
+    "popular_food_dish":{
+      "pizza": "img",
+      "fries": "img",
+    },
+    "popular_activities":,
+    "distance_from_ohio":,
+    "poster":,
+  }
+  {
+    "country": "Kenya",
+    "capital":,
+    "national_language":,
+    "population_size",
+    "flag_colors":,
+    "popular_food_dish":{
+      "pizza": "img",
+      "fries": "img",
+    },
+    "popular_activities":,
+    "distance_from_ohio":,
+    "poster":,
+  }
+  {
+    "country":"Barbados",
+    "capital":,
+    "national_language":,
+    "population_size",
+    "flag_colors":,
+    "popular_food_dish":{
+      "pizza": "img",
+      "fries": "img",
+    },
+    "popular_activities":,
+    "distance_from_ohio":,
+    "poster":,
+  }
+  {
+    "country": "New Zealand",
+    "capital":,
+    "national_language":,
+    "population_size",
+    "flag_colors":,
+    "popular_food_dish":{
+      "pizza": "img",
+      "fries": "img",
+    },
+    "popular_activities":,
+    "distance_from_ohio":,
+    "poster":,
+  }
+  {
+    "country": "Singapore",
+    "capital":,
+    "national_language":,
+    "population_size",
+    "flag_colors":,
+    "popular_food_dish":{
+      "pizza": "img",
+      "fries": "img",
+    },
+    "popular_activities":,
+    "distance_from_ohio":,
+    "poster":,
+  }
+  {
+    "country": "Australia",
+    "capital":,
+    "national_language":,
+    "population_size",
+    "flag_colors":,
+    "popular_food_dish":{
+      "pizza": "img",
+      "fries": "img",
+    },
+    "popular_activities":,
+    "distance_from_ohio":,
+    "poster":,
+  }
+  {
+    "country": "South Korea",
+    "capital":,
+    "national_language":,
+    "population_size",
+    "flag_colors":,
+    "popular_food_dish":{
+      "pizza": "img",
+      "fries": "img",
+    },
+    "popular_activities":,
+    "distance_from_ohio":,
+    "poster":,
+  }
+  {
+    "country": "Jamaica",
+    "capital":,
+    "national_language":,
+    "population_size",
+    "flag_colors":,
+    "popular_food_dish":{
+      "pizza": "img",
+      "fries": "img",
+    },
+    "popular_activities":,
+    "distance_from_ohio":,
+    "poster":,
+  }
+  {
+    "country":"Tunisia",
+    "capital":,
+    "national_language":,
+    "population_size",
+    "flag_colors":,
+    "popular_food_dish":{
+      "pizza": "img",
+      "fries": "img",
+    },
+    "popular_activities":,
+    "distance_from_ohio":,
+    "poster":,
+  }
+  {
+    "country": "Indonesia",
+    "capital":,
+    "national_language":,
+    "population_size",
+    "flag_colors":,
+    "popular_food_dish":{
+      "pizza": "img",
+      "fries": "img",
+    },
+    "popular_activities":,
+    "distance_from_ohio":,
+    "poster":,
+  }
+]
