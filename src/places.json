@@ -12,178 +12,228 @@
     },
     "popular_activities":{
       "historical_sites": "https://www.reviewofreligions.org/wp-content/uploads/2021/04/shutterstock_1515499457_1-1-1024x683.jpg",
-      "hot air balloons":"https://idsb.tmgrup.com.tr/ly/uploads/images/2022/07/12/217928.jpg",
-      "turkish bath":"https://i0.wp.com/istanbulvacationtips.com/wp-content/uploads/2019/10/what-to-expect-turkish-hamam-istanbul-vacation-tips.jpg?fit=1920%2C1080&ssl=1",
+      "hot_air_balloons":"https://idsb.tmgrup.com.tr/ly/uploads/images/2022/07/12/217928.jpg",
+      "turkish_bath":"https://i0.wp.com/istanbulvacationtips.com/wp-content/uploads/2019/10/what-to-expect-turkish-hamam-istanbul-vacation-tips.jpg?fit=1920%2C1080&ssl=1"
     },
-    "poster":["https://media.timeout.com/images/105651491/image.jpg","https://www.travelandleisure.com/thmb/UXNrwYTm3z1CAEBl8z_sTxnyGEw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/istanbul-turkey-ISTANBULTG0721-a987bb021e5e4b42b069ba2518cde276.jpg"],
-  }
+    "poster":["https://media.timeout.com/images/105651491/image.jpg","https://www.travelandleisure.com/thmb/UXNrwYTm3z1CAEBl8z_sTxnyGEw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/istanbul-turkey-ISTANBULTG0721-a987bb021e5e4b42b069ba2518cde276.jpg"]
+  },
   {
     "country": "Greece",
-    "capital":,
-    "official_language":,
-    "population_size":,
-    "flag_colors":,
+    "capital":"Athens",
+    "official_language":"Greek",
+    "population_size":"10.64M",
+    "flag_colors":["white","blue"],
     "popular_food_dish":{
-      "pizza": "img",
-      "fries": "img",
+      "souvlaki": "https://www.thespruceeats.com/thmb/plzoIrSo4bE_PZlbaYuQD-ou_eM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/greek-chicken-souvlaki-gyro-wrap-3958285-Hero_01-f7c0f7c283094126b5c29a01fa77da4a.jpg",
+      "spanakopita": "https://www.recipetineats.com/wp-content/uploads/2021/03/Spanakopita_0-1-1.jpg",
+      "pastitsio": "https://www.recipetineats.com/wp-content/uploads/2021/02/Pastitsio-_4.jpg"
     },
-    "popular_activities":,
-    "poster":,
-  }
+    "popular_activities":{
+      "historical_sites":"https://cdn.britannica.com/54/150954-050-F8D14782/Night-view-Parthenon-Athens.jpg",
+      "sailing": "https://assets-global.website-files.com/5ce44e4e8d1c1fc85b84c18d/6316a92f7909420c430079bb_best-sailing-destinations-in-greece.jpeg",
+      "beaches": "https://www.travelandleisure.com/thmb/41CIRbEOGGIoVwRYyiT5jdqgMNA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/navagio-beach-zakynthos-greece_HERO_GREEKBEACH1122-7ff0b86750b146aa958c82c209638abf.jpg"
+    },
+    "poster":["https://media-cdn.tripadvisor.com/media/photo-m/1280/1d/81/30/3f/caption.jpg","https://cdn.britannica.com/61/179661-138-6F13E02A/Overview-Athens.jpg"]
+  },
   {
     "country": "Morocco",
-    "capital":,
-    "official_language":,
-    "population_size",
-    "flag_colors":,
+    "capital":"Rabat",
+    "official_language":"Arabic",
+    "population_size": "37.08M",
+    "flag_colors":["red", "green"],
     "popular_food_dish":{
-      "pizza": "img",
-      "fries": "img",
+      "couscous ": "https://cdn.shopify.com/s/files/1/0493/3061/8524/articles/hbzGjR03jW2_ho94WcsVA_1000x.jpg?v=1625871963",
+      "tagine": "https://diethood.com/wp-content/uploads/2022/10/chicken-tagine-7.jpg",
+      "mint_tea": "https://www.lifeisbetterwithtea.com/wp-content/uploads/2018/02/moroccan-mint-tea.jpg"
     },
-    "popular_activities":,
-    "distance_from_ohio":,
-    "poster":,
-  }
+    "popular_activities":{
+      "explore_city": "https://uniquedeserttour.com/wp-content/uploads/2021/11/Moroccan-markets.jpg",
+      "desert_adventure": "https://cdn.kimkim.com/files/a/content_articles/featured_photos/69e50604c8d4b57d7b0ceb812aa42d3861df8a4f/big-47421ae976ed6542a690bb39b6300ac6.jpg",
+      "hiking": "https://saharadeserttour.com/wp-content/uploads/2020/12/saharadeserttour_068.jpg"
+    },
+    "poster":["https://images.locationscout.net/2021/01/mann-in-chefchaouen-morocco-lt29.webp?h=1400&q=83","https://theroad-islife.com/wp-content/uploads/2020/07/Things-to-do-in-Chefchaouen-18.jpg"]
+  },
   {
     "country": "Tanzania",
-    "capital":,
-    "official_language":,
-    "population_size",
-    "flag_colors":,
+    "capital": "Dodoma",
+    "official_language":"Swahili",
+    "population_size": "63.59M",
+    "flag_colors":["green", "black", "yellow", "blue"],
     "popular_food_dish":{
-      "pizza": "img",
-      "fries": "img",
+      "chips_mayai": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FFood%20Fest%202021%2FBrunch%20Fest%2FChips_Mayai_Kiano_Moju",
+      "mandazi": "https://images.squarespace-cdn.com/content/v1/5339dcbde4b0f2500943ef2d/1420852819617-KF03QG8QJCUXXP1D00QB/mandazi-pic1-500x333.jpg",
+      "grilled_samaki":"https://cdn.shopify.com/s/files/1/0493/3061/8524/articles/RlkigI2SoQl_5b10fPOnr_1000x.jpg?v=1667069822",
     },
-    "popular_activities":,
-    "distance_from_ohio":,
-    "poster":,
-  }
+    "popular_activities":{
+      "zanzibar": "https://www.zurizanzibar.com/data/w625h500_2020-06-10-03-44-58-Zuri-Beach1.jpg",
+      "kilimanjaro": "https://www.muchbetteradventures.com/magazine/content/images/2021/06/Kili-Giraffe-shot-2.jpeg",
+      "safari": "https://hips.hearstapps.com/harpersbazaar/assets/16/33/1471641800-hbz-jbf-tanzania-00-index.jpg"
+    },
+    "poster": ["https://www.whereandwhen.net/site/images/illustration/oualler/tanzanie-dar-es-salaam_498.jpg","https://lp-cms-production.imgix.net/2019-06/500640063_master.jpg"]
+  },
   {
     "country": "Thailand",
-    "capital":,
-    "official_language":,
-    "population_size",
-    "flag_colors":,
+    "capital":"Bangkok",
+    "official_language": "Thai",
+    "population_size": "71.6M",
+    "flag_colors":["blue", "red", "white"],
     "popular_food_dish":{
-      "pizza": "img",
-      "fries": "img",
+      "pad_thai": "https://www.feastingathome.com/wp-content/uploads/2016/04/pad-thai-2.jpg",
+      "thai_tea": "https://cdn.shopify.com/s/files/1/0022/1393/7252/articles/20230310181037-thai-tea-recipe_1200x1200.webp?v=1678471844",
+      "kaeng_lueang": "https://cdn.henschke.com.au/uploads/2020/11/Tamarind-Yellow-Curry-of-Chicken-Dan-Jarrett-spicerscurry-web-1024x822.jpg"
     },
-    "popular_activities":,
-    "distance_from_ohio":,
-    "poster":,
-  }
+    "popular_activities":{
+      "beaches": "https://www.jetsetter.com//uploads/sites/7/2019/10/vH0BLDMG.jpg",
+      "historical_sites": "https://a.cdn-hotels.com/gdcs/production168/d707/c3156d7b-ce5a-4a5c-9a99-002b0ff57fe8.jpg",
+      "scuba_diving": "https://www.holidify.com/images/cmsuploads/compressed/shutterstock_385210003(1)_20200114154430.jpg",
+    },
+    "poster":["https://i.natgeofe.com/n/f12e6dc0-3515-45cd-9657-7c0d1a87a512/street-bangkok-thailand.jpg","https://www.tripsavvy.com/thmb/4IhtAQ1Bh5Zte05C0iLqwGp3u_U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-642551278-5e19f089331d42dbb6b24e938fce1ab5.jpg"]
+  },
   {
     "country": "Mexico",
-    "capital":,
-    "official_language":,
-    "population_size",
-    "flag_colors":,
+    "capital": "Mexico City",
+    "official_language": "Spanish",
+    "population_size": "126.7M",
+    "flag_colors": ["green", "white", "red"],
     "popular_food_dish":{
-      "pizza": "img",
-      "fries": "img",
+      "tacos": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2018/04/Carne-Asada-Tacos-3.jpg",
+      "enchilades": "https://www.muydelish.com/wp-content/uploads/2022/01/enchilada-rojas.jpg",
+      "elote": "https://hips.hearstapps.com/hmg-prod/images/190409-mexican-corn-on-the-cob-horizontal-2-1555623819.png?crop=1xw:0.8435280189423836xh;center,top"
     },
-    "popular_activities":,
-    "distance_from_ohio":,
-    "poster":,
-  }
+    "popular_activities":{
+      "beaches": "https://www.celebritycruises.com/blog/content/uploads/2022/12/best-beaches-in-mexico-for-families-playa-parai%CC%81so-tulum-hero.jpg",
+      "museums": "https://travellemming.com/wp-content/uploads/Palacio-de-Bellas-Artes.jpg",
+      "historical_sites": "https://a.cdn-hotels.com/gdcs/production64/d1445/19c9f2d5-f248-49da-9363-c053552567d9.jpg"
+    },
+    "poster":["https://i.natgeofe.com/n/6c02ad5a-977b-4f12-b9c0-02ffb0736e07/metropolitan-cathedral-zocalo-mexico-city.JPG","https://www.travelandleisure.com/thmb/HcEzuCLew2ZXDGz2227ZIu3kJCU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/tulum-mexico-TULUMTG0721-34b3c46b2a2a444da0c8c475db33cc8c.jpg"]
+  },
   {
     "country": "Japan",
-    "capital":,
-    "official_language":,
-    "population_size",
-    "flag_colors":,
+    "capital": "Tokyo",
+    "official_language":"Japanese",
+    "population_size": "125.7M",
+    "flag_colors": ["white", "red"],
     "popular_food_dish":{
-      "pizza": "img",
-      "fries": "img",
+      "sushi": "https://cdn-fegfh.nitrocdn.com/bJwdeZsObtsROHbGJsKNNvJfYjZSwUGF/assets/images/optimized/rev-9bec0cf/wp-content/uploads/2020/08/Traditional-Japanese-Sushi-vs.-Western-Sushi-1.jpg",
+      "ramen": "https://tokyoesque.com/wp-content/uploads/2020/05/Ramen1.png",
+      "sashimi": "https://d3d7qmccklvqbw.cloudfront.net/wp-content/uploads/2017/12/sashimi-resized.jpg"
     },
-    "popular_activities":,
-    "distance_from_ohio":,
-    "poster":,
-  }
+    "popular_activities":{
+      "historical_sites": "https://media.cnn.com/api/v1/images/stellar/prod/160330153344-09-japan-temples.jpg?q=w_1600,h_1000,x_0,y_0,c_fill/w_1280",
+      "sushi_making": "https://img.jakpost.net/c/2020/04/08/2020_04_08_92239_1586333880._large.jpg",
+      "tea_gardens": "https://oishya.com/wp-content/uploads/2019/12/japanese-tea-matcha-ceremony.jpg"
+    },
+    "poster": ["https://www.state.gov/wp-content/uploads/2019/04/Japan-2107x1406.jpg", "https://ae01.alicdn.com/kf/HTB1dgUHXDHuK1RkSndVq6xVwpXaz/7x5ft-Japanese-Tokoyo-Cityscape-Mount-Fuji-Custom-Washable-Wrinkle-Free-Photo-Studio-Background-Backdrop-Polyester-Fabric.jpg"]
+  },
   {
     "country": "Ghana",
-    "capital":,
-    "official_language":,
-    "population_size",
-    "flag_colors":,
+    "capital": "Accra",
+    "official_language": "English",
+    "population_size": "32.82M",
+    "flag_colors": ["green", "yellow", "red"],
     "popular_food_dish":{
-      "pizza": "img",
-      "fries": "img",
+      "jollof_rice": "https://eatwellabi.com/wp-content/uploads/2022/11/Jollof-rice-16.jpg",
+      "plantains": "https://demandafrica.com/wp-content/uploads/2017/05/Kelewele-Ghana-Spicy-Fried-Plantains.jpg",
+      "waakye": "https://eatwellabi.com/wp-content/uploads/2021/09/Waakye-13.jpg"
     },
-    "popular_activities":,
-    "distance_from_ohio":,
-    "poster":,
-  }
+    "popular_activities":{
+      "national_parks": "https://nationalparks-15bc7.kxcdn.com/images/parks/kakum/Kakum%20National%20Park%20bridge.jpg",
+      "beaches": "https://resources.travellocal.com/wp/uploads/2023/01/27165059/1a36d5eb-9896-4e62-bdbd-c747504a4c29-Biriwa_1_SS-scaled.jpg",
+      "explore_city": "https://www.travellens.co/content/images/2022/05/Accra-Ghana.jpg"
+    },
+    "poster": ["https://content.r9cdn.net/rimg/dimg/dd/30/25eecbb5-city-5989-174dc0226d1.jpg?crop=true&width=1020&height=498", "https://media.istockphoto.com/id/1297519670/photo/sunset-behind-the-beautiful-stony-hills-in-accra.jpg?s=612x612&w=0&k=20&c=XjVN9wGdVflsu18hT6GPfhlFlCOvEvnchO0LJiYZyJM="]
+  },
   {
     "country": "Senegal",
-    "capital":,
-    "official_language":,
-    "population_size",
-    "flag_colors":,
+    "capital": "Dakar",
+    "official_language": "French",
+    "population_size": "16.88M",
+    "flag_colors": ["green", "yellow", "red"],
     "popular_food_dish":{
-      "pizza": "img",
-      "fries": "img",
+      "jollof_rice": "https://www.yummymedley.com/wp-content/uploads/2017/05/Thieboudienne-Senegalese-jollof-rice-and-fish-Close-Up.jpg",
+      "fish": "https://www.internationalcuisine.com/wp-content/uploads/2019/08/Thieboudienne-680x1019.jpeg",
+      "mafe": "https://thehealthyfoodie.com/wp-content/uploads/2018/04/Senegalese-Mafe-13-500x500.jpg"
     },
-    "popular_activities":,
-    "distance_from_ohio":,
-    "poster":,
-  }
+    "popular_activities":{
+      "historical_sites": "https://static01.nyt.com/images/2019/01/16/arts/16senegal-museum5/merlin_148316589_1948776f-456f-4e63-8233-49bdf0e3d3b7-articleLarge.jpg?quality=75&auto=webp&disable=upscale", 
+      "beaches": "https://gallivant.africa/wp-content/uploads/2019/10/15545058809_a43ff7d101_o-750x460.jpg",
+      "pink_lake": "https://ocdn.eu/images/pulscms/MTA7MDA_/9060ff3e9204223750dc664d5c446e4f.jpg"
+    },
+    "poster": ["https://media.cntraveler.com/photos/6127fbbf7ede67713bc9c528/4:3/w_2308,h_1731,c_limit/LICENSE_Khadjou%20Sambe_Dakar,%20Senegal_(c)%20GettyImages-1137099186_CNT%20(US)_Andrea%20Edelman.jpg","https://images.squarespace-cdn.com/content/v1/55b58420e4b02fb2e1559ddc/1539387126757-SV8EJI1G6MTUHHMB0D57/goree-dakar-senegal.jpg?format=1500w"],
+  },
   {
     "country": "India",
-    "capital":,
-    "official_language":,
-    "population_size",
-    "flag_colors":,
+    "capital":"New Delhi",
+    "official_language": "Hindi",
+    "population_size": "1.41B",
+    "flag_colors": ["green", "orange", "white"],
     "popular_food_dish":{
-      "pizza": "img",
-      "fries": "img",
+      "samosa": "https://www.recipetineats.com/wp-content/uploads/2021/02/Samosas-on-plate-SQ.jpg",
+      "biryani": "https://glebekitchen.com/wp-content/uploads/2019/12/chickenbiryanibowltop.jpg",
+      "masala_curry": "https://cafedelites.com/wp-content/uploads/2018/04/Best-Chicken-Tikka-Masala-IMAGE-2.jpg"
     },
-    "popular_activities":,
-    "distance_from_ohio":,
-    "poster":,
-  }
+    "popular_activities": {
+      "historical_sites": "https://th-thumbnailer.cdn-si-edu.com/jzm3Sdi-A4nHAwY_q8LAoOVMKJc=/1072x720/filters:no_upscale():focal(1471x1061:1472x1062)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/b6/30/b630b48b-7344-4661-9264-186b70531bdc/istock-478831658.jpg",
+      "beaches": "https://www.fodors.com/wp-content/uploads/2018/10/Indias-Most-Beautiful-Beaches-Goa-Hero.jpg",
+      "explore_city": "https://cdn.britannica.com/16/189816-050-5B006088/neighbourhood-Paharganj-New-Delhi-India.jpg"
+    },
+    "poster":["https://www.state.gov/wp-content/uploads/2019/04/India-2560x1300.jpg", "https://cdn.audleytravel.com/2779/1985/79/521026-the-gateway-of-india-mumbai.jpg"],
+  },
   {
     "country":"China",
-    "capital":,
-    "official_language":,
-    "population_size",
-    "flag_colors":,
+    "capital": "Beijing",
+    "official_language": "Mandarin",
+    "population_size": "1.41B",
+    "flag_colors":["yellow", "red"],
     "popular_food_dish":{
-      "pizza": "img",
-      "fries": "img",
+      "dumplings": "https://twoplaidaprons.com/wp-content/uploads/2020/05/Chinese-pork-dumplings-picking-up-a-dumpling-with-chopsticks.jpg",
+      "kung_pao_chicken": "https://cafedelites.com/wp-content/uploads/2018/04/Best-Kung-Pao-Chicken-IMAGE-2.jpg",
+      "dim_sum": "https://www.tastingtable.com/img/gallery/the-17-must-order-dishes-for-a-dim-sum-feast/l-intro-1671659302.jpg"
     },
-    "popular_activities":,
-    "distance_from_ohio":,
-    "poster":,
-  }
+    "popular_activities":{
+      "historical_sites": "https://planetofhotels.com/guide/sites/default/files/styles/paragraph__hero_banner__hb_image__1880bp/public/hero_banner/the-great-wall-of-china_optimized.jpg",
+      "explore_city": "https://www.nationalreview.com/wp-content/uploads/2022/02/beijing.jpg?fit=2057%2C1200",
+      "panda_bears": "https://www.onthegotours.com/repository/Giant-Panda-sitting-on-forest-ground--China-Tours--On-The-Go-Tours-279771450457645_crop_800_600.jpg"
+    },
+    "poster":["https://www.intrepidtravel.com/adventures/wp-content/uploads/2017/08/china_shanghai_yuyuan-garden-city.jpg", "https://www.china-briefing.com/news/wp-content/uploads/2019/04/China-Briefing-Shanghai-Industry-Economics-and-Policy.jpg"],
+  },
   {
     "country": "Peru",
-    "capital":,
-    "official_language":,
-    "population_size",
-    "flag_colors":,
+    "capital": "Lima",
+    "official_language": "Spanish",
+    "population_size": "33.72M",
+    "flag_colors": ["red", "white"],
     "popular_food_dish":{
-      "pizza": "img",
-      "fries": "img",
+      "ceviche": "https://www.sbs.com.au/food/sites/sbs.com.au.food/files/a0460f44-dd06-4eca-a7b2-b1b0d1b303ad.jpeg",
+      "lomo saltado": "https://www.oliveandmango.com/images/uploads/2022_07_18_lomo_saltado_1.jpg",
+      "pollo_ala_brassa": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/44/95/29/yNQX2CJfQ3inxVbazNt5_grilledchicken0155.jpg"
     },
-    "popular_activities":,
-    "distance_from_ohio":,
-    "poster":,
-  }
+    "popular_activities":{
+      "historical_sites": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Machu_Picchu%2C_Peru.jpg/1200px-Machu_Picchu%2C_Peru.jpg",
+      "hiking": "https://cdn.kimkim.com/files/a/images/c3b77dd2d0dff8295981f41c5e397737e7e9aec1/original-b43af53e3c5ecc6aaa2b2218878da5bd.jpg",
+      "white_water_rafting": "https://www.kuodatravel.com/wp-content/uploads/2016/12/ca%C3%B1ete-river.jpg"
+
+    },
+    "poster": ["https://img.theculturetrip.com/wp-content/uploads/2021/05/2fn600a-e1625474494144.jpg", "https://www.metrojourneys.com/wp-content/uploads/2019/07/machu-picchu-peru-tours.jpg"],
+  },
   {
     "country": "Portugal",
-    "capital":,
-    "official_language":,
-    "population_size",
-    "flag_colors":,
+    "capital": "Lisbon",
+    "official_language": "Portuguese",
+    "population_size": "10.33M",
+    "flag_colors":["green", "red"],
     "popular_food_dish":{
-      "pizza": "img",
-      "fries": "img",
+      "custard_tart": "https://afar.brightspotcdn.com/dims4/default/078fcfd/2147483647/strip/true/crop/5580x3720+0+0/resize/1440x960!/quality/90/?url=https%3A%2F%2Fafar-media-production-web.s3.amazonaws.com%2Fbrightspot%2Ff3%2F13%2Fdbe1723b4d268f175ebd3fa19843%2Fshutterstock-1021082725.jpg",
+      "octopus": "https://www.willflyforfood.net/wp-content/uploads/2020/09/polvo-a-lagareiro.jpg",
+      "grilled_fish": "https://cdn-bmalj.nitrocdn.com/uirOOtSrYrqqUksKHkiSCjZGZlPeXsmk/assets/images/optimized/rev-72e5e55/images/Portuguese-Food-Sardinhas.jpg"
     },
-    "popular_activities":,
-    "distance_from_ohio":,
-    "poster":,
-  }
+    "popular_activities":{
+      "historical_sites": "https://www.historyhit.com/app/uploads/2020/11/Jeronimos-Monastery.jpg",
+      "explore_city": "https://www.travelandleisure.com/thmb/LzWpzDihxjffaFmM9TZWCvm9VyY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/lisbon-portugal-LISBONTG0521-c933a0fb669647619fa580f6c602c4c8.jpg",
+      "wine_tasting": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/25/79/6e.jpg"
+    },
+    "poster":["https://upload.wikimedia.org/wikipedia/commons/4/41/Lisbon_%2836831596786%29_%28cropped%29.jpg", "https://www.travelandleisure.com/thmb/t7LUbPYWRDe_itXi0c9mmS4OYMc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/TAL-header-azenhas-do-mar-portugal-PRTGREECE0922-1b53ba0a4b4c4eef999ae4190f7981cd.jpg"],
+  },
   {
     "country": "Croatia",
     "capital":,
@@ -195,9 +245,8 @@
       "fries": "img",
     },
     "popular_activities":,
-    "distance_from_ohio":,
     "poster":,
-  }
+  },
   {
     "country": "Zimbabwe",
     "capital":,
@@ -209,9 +258,8 @@
       "fries": "img",
     },
     "popular_activities":,
-    "distance_from_ohio":,
     "poster":,
-  }
+  },
   {
     "country": "Costa Rica",
     "capital":,
@@ -223,9 +271,8 @@
       "fries": "img",
     },
     "popular_activities":,
-    "distance_from_ohio":,
     "poster":,
-  }
+  },
   {
     "country": "Kenya",
     "capital":,
@@ -237,9 +284,8 @@
       "fries": "img",
     },
     "popular_activities":,
-    "distance_from_ohio":,
     "poster":,
-  }
+  },
   {
     "country":"Barbados",
     "capital":,
@@ -251,9 +297,8 @@
       "fries": "img",
     },
     "popular_activities":,
-    "distance_from_ohio":,
     "poster":,
-  }
+  },
   {
     "country": "New Zealand",
     "capital":,
@@ -265,9 +310,8 @@
       "fries": "img",
     },
     "popular_activities":,
-    "distance_from_ohio":,
     "poster":,
-  }
+  },
   {
     "country": "Singapore",
     "capital":,
@@ -279,9 +323,8 @@
       "fries": "img",
     },
     "popular_activities":,
-    "distance_from_ohio":,
     "poster":,
-  }
+  },
   {
     "country": "Australia",
     "capital":,
@@ -293,9 +336,8 @@
       "fries": "img",
     },
     "popular_activities":,
-    "distance_from_ohio":,
     "poster":,
-  }
+  },
   {
     "country": "South Korea",
     "capital":,
@@ -306,10 +348,9 @@
       "pizza": "img",
       "fries": "img",
     },
-    "popular_activities":,
-    "distance_from_ohio":,
+    "popular_activities":"",
     "poster":,
-  }
+  },
   {
     "country": "Jamaica",
     "capital":,
@@ -321,9 +362,8 @@
       "fries": "img",
     },
     "popular_activities":,
-    "distance_from_ohio":,
     "poster":,
-  }
+  },
   {
     "country":"Tunisia",
     "capital":,
@@ -335,9 +375,8 @@
       "fries": "img",
     },
     "popular_activities":,
-    "distance_from_ohio":,
     "poster":,
-  }
+  },
   {
     "country": "Indonesia",
     "capital":,
@@ -349,7 +388,6 @@
       "fries": "img",
     },
     "popular_activities":,
-    "distance_from_ohio":,
     "poster":,
   }
 ]
