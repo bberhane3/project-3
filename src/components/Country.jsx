@@ -29,7 +29,7 @@ const Country = (props) => {
           <Food food={item} />
         ))}
       </div>
-      <h1 className="titles">Popular Activities</h1>
+      <h1 className="titles">Popular</h1>
       <div className="activities">
         {activities.map((activity) => (
           <Activities activity={activity} />
