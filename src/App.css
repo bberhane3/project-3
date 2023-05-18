@@ -48,8 +48,8 @@ width: 50px;
 .titles{
   font-family:'Shadows Into Light', cursive;
   text-align: center;
-  font-size: 7vh;
-  color: pink;
+  font-size: 6vh;
+  color: black
 }
 
 
@@ -68,7 +68,7 @@ color: #8b572a;
 .food_pic{
   margin: 5px;
   width: 122px;
-  border: white 3px solid;
+  border: brown 3px solid;
 }
 
 .activities {
