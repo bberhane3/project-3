@@ -68,12 +68,12 @@ color: #8b572a;
 
 .food_pic{
   margin: 5px;
-  width: 122px;
+  width: 125px;
   border: white 3px solid;
 }
 
 .activities {
   display: flex;
-  flex-direction: column;
+  flex-direction: row-reverse;
   justify-content: space-evenly;
 }
