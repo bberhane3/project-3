@@ -75,5 +75,5 @@ color: #8b572a;
 .activities {
   display: flex;
   flex-direction: row;
-  justify-content: space-evenly;
+  justify-content: space-between;
 }
