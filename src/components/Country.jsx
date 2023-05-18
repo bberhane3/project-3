@@ -23,13 +23,13 @@ const Country = (props) => {
           <Poster poster={poster} />
         ))}
       </div>
-      <h1 className="titles">Popular Food Dishes!</h1>
+      <h1 className="titles">Popular Food Dishes</h1>
       <div className="food">
         {food.map((item) => (
           <Food food={item} />
         ))}
       </div>
-      <h1 className="titles">Popular Activities!</h1>
+      <h1 className="titles">Popular Activities</h1>
       <div className="activities">
         {activities.map((activity) => (
           <Activities activity={activity} />
