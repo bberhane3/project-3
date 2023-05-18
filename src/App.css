@@ -38,15 +38,23 @@ width: 50px;
 .title{
   font-family:'Shadows Into Light', cursive;
   text-align: center;
-  font-size: 8vh;
+  font-size: 9vh;
   color: black;
   border-width: 1;
   border-color: white;
   text-decoration: underline;
 }
 
+.titles{
+  font-family:'Shadows Into Light', cursive;
+  text-align: center;
+  font-size: 6vh;
+  color: black;
+}
+
+
 .country{
-font-size: 8vh;
+font-size: 9vh;
 font-family: 'Zeyada', cursive;
 color: #8b572a;
 }
